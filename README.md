@@ -1,23 +1,18 @@
-# Portfolio Website
+# Abdul-Karim Mrad - Portfolio
 
-This is my personal portfolio website hosted on GitHub Pages. It showcases my projects, skills, and professional background.
+This is my personal portfolio website, showcasing my skills, projects, and background in software development.
 
-## Website URL
+## Website
 
-[https://000819421.github.io](https://000819421.github.io)
+Visit my portfolio: [https://000819421.github.io](https://000819421.github.io)
 
-## Contents
+## Overview
 
-- **About Me**: A brief introduction and background information.
-- **Projects**: Showcase of my key projects, each with descriptions and links.
-- **Contact**: Information on how to connect with me.
-
-## Technologies Used
-
-- **HTML**: Structure of the website.
-- **CSS**: Styling and layout.
-- **JavaScript**: Interactivity and dynamic elements.
-
-## License
-
-This project is licensed under the MIT License.
+- **About Me**: Background in Software Development Technology at Mohawk College.
+- **Skills**: Java, C#, JavaScript, Python, HTML, CSS, SQL, Git, and GitHub.
+- **Projects**:
+  - **Interactive Box Game**: A browser-based game using HTML, CSS, and JavaScript. [GitHub](https://github.com/000819421/Box-Blaster/tree/master)
+  - **Drawing Application**: Java-based tool with undo/redo features. [GitHub](https://github.com/000819421/PaintApp/tree/master)
+  - **Parrot Management System**: A JavaFX app for managing parrot data. [GitHub](https://github.com/000819421/ParrotManager/tree/master)
+- **Resume**: Downloadable PDF of my resume.
+- **Contact**: Reach me via email or GitHub.
